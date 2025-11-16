@@ -3,3 +3,10 @@ Digital era has given us lots of great things but also many terrible things and 
 
 ## Project Overview
 Initiallly, FND aims to provide an API that interacts with a self-trained model to detect and classify whether a news article is: fake, uncertain (potentially fake/potentially real), real. Beside news detection and classification, FND will provide details on why this news article is fake (or real) based on certain points and give suggestion on whether users should trust this news or not.
+
+## Credit
+The idea of the project is not new. I just reuse the idea and add my own takes on to the idea so here's the list of resources that I have been using to build the project (the list will still be updated until there's no more):
+- [Development of Fake News Model Using Machine
+Learning through Natural Language Processing by Sajjad Ahmed, Knut Hinkelmann, Flavio Corradini](https://arxiv.org/pdf/2201.07489).
+- [Detecting Fake News with Python and Machine Learning
+ by DataFlair](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/).
